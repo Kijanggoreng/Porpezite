@@ -1,0 +1,9 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.cat.lie_down": {},
+    "animation.cat.sneak": {},
+    "animation.cat.sprint": {},
+    "animation.cat.walk": {}
+  }
+}

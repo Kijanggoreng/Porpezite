@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.villager.general": {},
+    "animation.villager.general.v1.0": {},
+    "animation.villager.get_in_bed": {},
+    "animation.villager.move": {},
+    "animation.villager.raise_arms": {}
+  }
+}

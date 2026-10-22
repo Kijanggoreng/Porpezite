@@ -1,0 +1,46 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "porpezite:fog_nether"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 11.2,
+        "fog_end": 16.0,
+        "fog_color": "#330808",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 11.2,
+        "fog_end": 16.0,
+        "fog_color": "#330808",
+        "render_distance_type": "fixed"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 16.0,
+        "fog_color": "#3F76E4",
+        "render_distance_type": "fixed"
+      },
+      "lava": {
+        "fog_start": 0.0,
+        "fog_end": 4.0,
+        "fog_color": "#FF3300",
+        "render_distance_type": "fixed"
+      },
+      "lava_resistance": {
+        "fog_start": 0.0,
+        "fog_end": 4.0,
+        "fog_color": "#FF3300",
+        "render_distance_type": "fixed"
+      },
+      "powder_snow": {
+        "fog_start": 0.0,
+        "fog_end": 3.0,
+        "fog_color": "#FFFFFF",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

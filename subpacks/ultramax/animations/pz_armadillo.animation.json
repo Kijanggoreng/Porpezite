@@ -1,0 +1,12 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.armadillo.look_at_target": {},
+    "animation.armadillo.walk": {},
+    "animation.armadillo.roll_up": {},
+    "animation.armadillo.rolled_up": {},
+    "animation.armadillo.peek": {},
+    "animation.armadillo.unroll": {},
+    "animation.armadillo.unroll_fast": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.horse.v3.eat": {},
+    "animation.horse.v3.look_at_player": {}
+  }
+}

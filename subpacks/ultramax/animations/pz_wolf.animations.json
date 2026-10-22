@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.wolf.angry": {},
+    "animation.wolf.head_rot_z": {},
+    "animation.wolf.leg_default": {},
+    "animation.wolf.shaking": {},
+    "animation.wolf.tail_default": {}
+  }
+}

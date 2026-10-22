@@ -1,0 +1,217 @@
+{
+  "biomes": {
+    "default": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "bamboo_jungle": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "bamboo_jungle_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "basalt_deltas": {
+      "fog_identifier": "porpezite:fog_nether"
+    },
+    "beach": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "birch_forest": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "birch_forest_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cherry_grove": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cold_beach": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cold_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cold_taiga": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cold_taiga_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "cold_taiga_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "crimson_forest": {
+      "fog_identifier": "porpezite:fog_nether"
+    },
+    "deep_cold_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "deep_frozen_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "deep_lukewarm_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "deep_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "deep_warm_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "desert": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "desert_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "extreme_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "extreme_hills_edge": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "extreme_hills_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "extreme_hills_plus_trees": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "extreme_hills_plus_trees_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "flower_forest": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "forest": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "forest_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "frozen_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "frozen_river": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "hell": {
+      "fog_identifier": "porpezite:fog_nether"
+    },
+    "ice_mountains": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "ice_plains": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "ice_plains_spikes": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "jungle": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "jungle_edge": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "jungle_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "jungle_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "lukewarm_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mangrove_swamp": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mega_spruce_taiga": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mega_spruce_taiga_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mega_taiga": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mega_taiga_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mega_taiga_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mesa": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mesa_bryce": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mesa_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mesa_plateau": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mesa_plateau_stone": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mushroom_island": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "mushroom_island_shore": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "plains": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "river": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "roofed_forest": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "savanna": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "savanna_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "savanna_plateau": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "soulsand_valley": {
+      "fog_identifier": "porpezite:fog_nether"
+    },
+    "stone_beach": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "sunflower_plains": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "swampland": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "swampland_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "taiga": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "taiga_hills": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "taiga_mutated": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "the_end": {
+      "fog_identifier": "porpezite:fog_end"
+    },
+    "warm_ocean": {
+      "fog_identifier": "porpezite:fog_clear"
+    },
+    "warped_forest": {
+      "fog_identifier": "porpezite:fog_nether"
+    }
+  }
+}

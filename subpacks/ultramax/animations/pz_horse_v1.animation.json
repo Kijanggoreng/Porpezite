@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.horse.eat": {},
+    "animation.horse.look_at_player": {},
+    "animation.horse.mouth": {},
+    "animation.horse.shake_tail": {},
+    "animation.horse.walk": {}
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "\u00a7l\u00a7bPORPEZITE",
+    "version": [
+      2,
+      2,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ],
+    "uuid": "4974e39f-2104-54ec-b155-af16ff92b6dc",
+    "description": "\u00a7aPorpezite: insanely aggressive optimization.\u00a7r \u00a77The top modes are cut to the limit, no mercy: zero particles, stripped animations, short view, low hands.\u00a7r \u00a78Gear icon: pick a mode. Fog only hides distance, so also set render distance and simulation distance to the minimum."
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2dc451a0-c321-5b47-bd1c-2592dd071c5f",
+      "version": [
+        2,
+        2,
+        0
+      ],
+      "description": "Porpezite Normal"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Kijanggorreng"
+    ],
+    "license": "All Rights Reserved"
+  },
+  "subpacks": [
+    {
+      "folder_name": "lite",
+      "name": "\u00a7l\u00a7aLITE \u00a7r\u00a78| \u00a774 chunks, particles off, low hands",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "max",
+      "name": "\u00a7l\u00a76MAX \u00a7r\u00a78| \u00a772 chunks, frozen, no weather",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "ultra",
+      "name": "\u00a7l\u00a7cULTRA \u00a7r\u00a78| \u00a773x3 chunks, minimal mobs",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "ultramax",
+      "name": "\u00a7l\u00a74ULTRA MAX \u00a7r\u00a78| \u00a77your chunk only, everything cut",
+      "memory_tier": 0
+    }
+  ]
+}

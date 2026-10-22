@@ -1,0 +1,38 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.ender_crystal.move": {
+      "loop": true,
+      "bones": {
+        "outer_glass": {
+          "rotation": [
+            -45.0,
+            0.0,
+            35.264
+          ]
+        },
+        "inner_glass": {
+          "rotation": [
+            -45.0,
+            0.0,
+            35.264
+          ]
+        },
+        "cube": {
+          "rotation": [
+            -45.0,
+            0.0,
+            35.264
+          ]
+        },
+        "glass": {
+          "rotation": [
+            -45.0,
+            0.0,
+            35.264
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.iron_golem.move": {},
+    "animation.iron_golem.walk": {}
+  }
+}

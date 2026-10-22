@@ -1,0 +1,29 @@
+Porpezite License v1.0 (source-available, all rights reserved)
+Copyright (c) 2026 Kijanggorreng. All rights reserved.
+
+Porpezite was made by Kijanggorreng with the help of Claude (an AI assistant made by Anthropic).
+
+1. WHAT YOU MAY DO
+   a. Install and use any build of Porpezite for personal, non-commercial purposes, including recording or streaming gameplay.
+   b. Read and study the files and learn from the techniques described in CLAUDE.md.
+   c. Write your own, different work inspired by those techniques.
+   d. Link to the official release page.
+
+2. WHAT NEEDS WRITTEN PERMISSION FROM THE AUTHOR
+   a. Copying the files verbatim, in whole or in part, into another pack or project, or re-hosting or re-distributing the pack (modified or not).
+   b. Selling the pack or putting it behind payment or paywalls.
+   c. Reusing the name "Porpezite" or the pack logo for another project.
+   d. Presenting this pack or a near-identical copy as your own work.
+
+3. PROVENANCE
+   The configuration files, generated textures and documentation were created for this project.
+   The pack icon (pack_icon.png) is the logo supplied by the author for this project.
+   The pack contains no textures, models or sounds taken from Minecraft or from any other pack.
+   Particle, animation, fog and flipbook identifiers are functional game names and are used only to override behaviour.
+   The Normal and No Fog builds include modified excerpts of vanilla animation data (first-person arm and shield), which is Mojang game data.
+   The Pure build does not contain those excerpts.
+
+4. NO WARRANTY
+   The pack is provided "as is", without warranty of any kind. Use it at your own risk.
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
